@@ -13,7 +13,7 @@ I'm Izzy! I am a remote sensing scientist and ecologist, currently pursuing an M
 
 I earned my BS in Wildlife and Conservation Biology with a minor in Geospatial Analysis from the University of New Hampshire, where I conducted research on the use multispectral drone imagery for [detecting beech bark disease](https://digitalcommons.kennesaw.edu/thegeographicalbulletin/vol64/iss2/4/). 
 
-**My current research interests include:**
+**My current research interests include (but are definitely not limited to):**
 * Multi/hyperspectral remote sensing
 * Biodiversity patterns & monitoring
 * Coastal sage scrub ecosystems
