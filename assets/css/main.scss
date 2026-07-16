@@ -38,23 +38,23 @@
     "layout/json_cv"
 ;
 
-.photo-gallery {
+.photography {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
   gap: 1.5rem;
   margin-top: 2rem;
 }
 
-.photo-gallery figure {
+.photography figure {
   margin: 0;
 }
 
-.photo-gallery img {
+.photography img {
   width: 100%;
   border-radius: 6px;
 }
 
-.photo-gallery figcaption {
+.photography figcaption {
   margin-top: 0.5rem;
   text-align: center;
   font-size: 0.9em;
