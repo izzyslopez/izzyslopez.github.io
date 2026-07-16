@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Buckwheat](/images/buckwheat.png)
+![Buckwheat](/images/buckwheat_header.png)
 
 I'm Izzy! I am a remote sensing scientist and ecologist, currently pursuing an MA/PhD in Geography in the [Spatial Conservation and Landscape Ecology lab](https://www.frazierlab.org/) at UC Santa Barbara. 
 
