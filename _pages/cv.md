@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ---
 * Ph.D in Geography, UC Santa Barbara, 2029 (expected)
 * M.A. in Geography, UC Santa Barbara, 2026
 * B.S. in Wildlife and Conservation Biology, University of New Hampshire
 
-Publications
+## Publications
 ---
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
