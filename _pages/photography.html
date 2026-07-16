@@ -5,7 +5,7 @@ title: "Photography"
 author_profile: true
 ---
 
-{% capture gallery %}
+{% include gallery %}
 - url: /images/buckwheat.png
   image_path: /images/buckwheat.png
   alt: "Field site"
@@ -20,8 +20,3 @@ author_profile: true
   image_path: /images/buckwheat.png
   alt: "Vegetation"
   title: "Coastal sage scrub"
-{% endcapture %}
-
-{% assign gallery = gallery | markdownify %}
-
-{% include gallery %}
