@@ -4,8 +4,6 @@
 /* Color codes used for the theme */
 $primary-color              : #2f7f93;
 $cream                      : #f8ffe1;
-$dark-cream                 : mix(#000, $cream, 40%);
-$darker-cream               : mix(#000, $cream, 60%);
 $light-cream                : mix(#fff, $cream, 50%);
 $lighter-cream              : mix(#fff, $cream, 90%);
 
@@ -34,14 +32,14 @@ $sidebar-screen-min-width   : 1024px;
     --global-border-color               : #{$lighter-cream};
     --global-dark-border-color          : #bdc1c4;
     --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-cream};
-    --global-fig-caption-color          : mix(#fff,  #{$dark-cream}, 25%);
+    --global-code-text-color            : #{$cream};
+    --global-fig-caption-color          : mix(#fff,  #{$cream}, 25%);
     --global-link-color                 : #52adc8;
     --global-link-color-hover           : mix(#000, #2f7f93, 25%);
     --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
-    --global-masthead-link-color        : #{$dark-cream};
+    --global-masthead-link-color        : #{$cream};
     --global-masthead-link-color-hover  : mix(#000, #{$cream}, 25%);    
-    --global-text-color                 : #{$dark-cream};
+    --global-text-color                 : #{$cream};
     --global-text-color-light           : #{$light-cream};
     --global-thead-color                : #{$lighter-cream};
 }
