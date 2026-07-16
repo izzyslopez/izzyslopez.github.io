@@ -5,8 +5,23 @@ title: "Photography"
 author_profile: true
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="images/buckwheat.png" alt="Description 1" width="30%">
-  <img src="images/buckwheat.png" alt="Description 2" width="30%">
-  <img src="images/buckwheat.png" alt="Description 3" width="30%">
-</div>
+{% capture gallery %}
+- url: /images/buckwheat.png
+  image_path: /images/buckwheat.png
+  alt: "Field site"
+  title: "Santa Barbara foothills"
+
+- url: /images/buckwheat.png
+  image_path: /images/buckwheat.png
+  alt: "Drone"
+  title: "Mavic 3M survey"
+
+- url: /images/buckwheat.png
+  image_path: /images/buckwheat.png
+  alt: "Vegetation"
+  title: "Coastal sage scrub"
+{% endcapture %}
+
+{% assign gallery = gallery | markdownify %}
+
+{% include gallery %}
