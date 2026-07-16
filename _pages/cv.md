@@ -13,7 +13,7 @@ redirect_from:
 ---
 * Ph.D in Geography, UC Santa Barbara, 2029 (expected)
 * M.A. in Geography, UC Santa Barbara, 2026
-* B.S. in Wildlife and Conservation Biology, University of New Hampshire
+* B.S. in Wildlife and Conservation Biology, University of New Hampshire, 2023
 
 ## Publications
 ---
@@ -24,6 +24,7 @@ _Peer reviewed:_
 Fraser, B.T., Bunyon, C.L., Reny, S., **Lopez, I. S.**, & Congalton, R.G. (2022). Analysis of Unmanned Aerial System (UAS) Sensor Data for Natural Resource Applications: A Review. _Geographies_, 2(2), Article 2. https://doi.org/10.3390/geographies2020021
 
 _Technical Reports:_
+
 X. Yan, Y. Zhan, W. Yang, O. Ross, Y. Liu, Z. Li, **I. Lopez**, I. Perez, E. Tao, J. Vogel, D. Cui, L. Song, A. Frazier (2025) Current and Future Habitat Suitability for Special Status Species at the Jack and Laura Dangermond Preserve. UC Santa Barbara: Center for Spatial Science. _EcoEvoRxiv_ [Preprint]. https://doi.org/10.32942/X2BH2N
   
 ## Conference Presentations
