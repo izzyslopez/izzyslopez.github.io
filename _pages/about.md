@@ -9,7 +9,9 @@ redirect_from:
 
 ![Buckwheat](/images/buckwheat.png)
 
-I am a current MA/PhD student in the [Spatial Conservation and Landscape Ecology lab](https://www.frazierlab.org/) in the Department of Geography at UC Santa Barbara. I earned by BS in Wildlife and Conservation Biology with a minor in Geospatial Analysis from the University of New Hampshire, where I conducted research on the use multispectral drone imagery for [detecting beech bark disease](https://digitalcommons.kennesaw.edu/thegeographicalbulletin/vol64/iss2/4/). 
+I'm Izzy! I am a remote sensing scientist and ecologist, currently pursuing an MA/PhD in Geography in the [Spatial Conservation and Landscape Ecology lab](https://www.frazierlab.org/) at UC Santa Barbara. 
+
+I earned my BS in Wildlife and Conservation Biology with a minor in Geospatial Analysis from the University of New Hampshire, where I conducted research on the use multispectral drone imagery for [detecting beech bark disease](https://digitalcommons.kennesaw.edu/thegeographicalbulletin/vol64/iss2/4/). 
 
 **My current research interests include:**
 * Multi/hyperspectral remote sensing
