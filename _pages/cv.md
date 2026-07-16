@@ -57,3 +57,11 @@ _UC Santa Barbara_
 
 _University of New Hampshire_
 * Undergraduate Representative, Diversity, Equity, and Inclusion Committee, 2021-2023
+
+## Professional Experience
+---
+* **Bren Environmental Leadership Fellow**, Bren School of Environmental Science & Management, 2024
+* **Karner Blue Butterfly Biological Technician**, New Hampshire Fish and Game: Nongame and Endangered Wildlife Division, 2024
+* **Seasonal Land Steward**, The Nature Conservancy, 2023
+* **Summer Undergraduate Research Fellowship**, University of New Hampshire, 2022
+* **Undergraduate Research Assistant**, Basic and Applied Spatial Analysis Lab, 2021-2023
