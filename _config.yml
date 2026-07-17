@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Izzy Lopez"
-  pronouns         : # example: "she/her/hers"  
+  pronouns         : "she/her/hers"  
   bio              : "MA/PhD student in Geography"
   employer         : "UC Santa Barbara"
   email            : "izzylopez@ucsb.edu" 
