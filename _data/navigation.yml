@@ -9,7 +9,7 @@
 
 main:    
   - title: "CV"
-    url: /cv/
+    url: /files/Isabelle_Lopez_CV.pdf
     
   - title: "Photography"
     url: /photography/ 
