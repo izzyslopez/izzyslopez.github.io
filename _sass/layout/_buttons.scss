@@ -23,7 +23,7 @@
   cursor: pointer;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: #e292b5;
   }
 
   .icon {
@@ -61,8 +61,8 @@
   /* light outline */
 
   &--light-outline {
-    border: 1px solid #fff !important; /* override*/
-    background-color: transparent;
+    border: 1px solid #fff !important;
+    background-color: #e292b5;
   }
 
   /* information */
@@ -129,7 +129,7 @@
       background-color: #e292b5;
 
       &:hover {
-        background-color: mix(#000, $color, 20%);
+        background-color: #e292b5;
       }
     }
   }
