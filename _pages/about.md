@@ -1,9 +1,7 @@
 ---
-permalink: /about
+permalink: /aboutmd
 title: "Hello!"
 author_profile: true
-redirect_from: 
-  - /about/
 ---
 
 ![Buckwheat](/images/buckwheat_header.png)
